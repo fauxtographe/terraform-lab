@@ -1,0 +1,5 @@
+ami-type      = "ami-069aabeee6f53e7bf"
+instance-type = "t2.nano"
+env           = "dev"
+instance-name = "Postgresql-server-dev"
+team          = "Dev team"
